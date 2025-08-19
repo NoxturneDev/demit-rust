@@ -1,0 +1,1 @@
+fn boss_battle();
